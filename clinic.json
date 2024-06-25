@@ -1,4 +1,32 @@
 {
-  "a" : "lions",
-  "b" : "jrrmch"
+  "todoList": [
+    {
+      "id": 1,
+      "task": "Buy groceries",
+      "completed": false,
+      "priority": "high",
+      "dueDate": "2024-06-30"
+    },
+    {
+      "id": 2,
+      "task": "Call the bank",
+      "completed": false,
+      "priority": "medium",
+      "dueDate": "2024-06-27"
+    },
+    {
+      "id": 3,
+      "task": "Schedule doctor appointment",
+      "completed": true,
+      "priority": "low",
+      "dueDate": "2024-07-01"
+    },
+    {
+      "id": 4,
+      "task": "Finish project report",
+      "completed": false,
+      "priority": "high",
+      "dueDate": "2024-06-28"
+    }
+  ]
 }
